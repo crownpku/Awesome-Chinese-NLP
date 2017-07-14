@@ -5,7 +5,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 
 ### Chinese NLP Toolkits 
-###中文NLP工具包
+### 中文NLP工具包
 
 THULAC by 清华
 
