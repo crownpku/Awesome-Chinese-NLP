@@ -18,13 +18,17 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - BosonNLP by Boson (商业API服务) [[link](http://bosonnlp.com/)]
 
-- Jieba 结巴中文分词 (Python) [[github](https://github.com/fxsjy/jieba)]
-
 - HanNLP (Java) [[github](https://github.com/hankcs/HanLP)]
 
 - SnowNLP (Python) [[github](https://github.com/isnowfy/snownlp)]
 
 - YaYaNLP (Python) [[github](https://github.com/Tony-Wang/YaYaNLP)]
+
+- Jieba 结巴中文分词 (Python) [[github](https://github.com/fxsjy/jieba)]
+
+- Genius 中文分词 (Python) [[github](https://github.com/duanhongyi/genius)]
+
+- loso 中文分词 (Python) [[github](https://github.com/fangpenlin/loso)]
 
 
 
