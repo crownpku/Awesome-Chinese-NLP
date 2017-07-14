@@ -26,6 +26,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - Jieba 结巴中文分词 (Python) [[github](https://github.com/fxsjy/jieba)]
 
+- kcws 深度学习中文分词 (Python) [[github](https://github.com/koth/kcws)]
+
 - Genius 中文分词 (Python) [[github](https://github.com/duanhongyi/genius)]
 
 - loso 中文分词 (Python) [[github](https://github.com/fangpenlin/loso)]
