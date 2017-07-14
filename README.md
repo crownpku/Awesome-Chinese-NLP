@@ -3,7 +3,9 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 中文自然语言处理相关资料
 
-### Chinese NLP Toolkits 中文NLP工具包
+
+### Chinese NLP Toolkits 
+###中文NLP工具包
 
 THULAC by 清华
 
@@ -22,7 +24,8 @@ Jieba分词
 SnowNLP
 
 
-### Popular NLP Toolkits fir English/Multi-Language 另外比较常用的英文或支持多语言的NLP工具包
+### Popular NLP Toolkits fir English/Multi-Language 
+### 常用的英文或支持多语言的NLP工具包
 
 Stanford CoreNLP
 
