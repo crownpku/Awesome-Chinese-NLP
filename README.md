@@ -36,9 +36,9 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - spaCy (Python) [[link](https://spacy.io/)]
 
-- OpenNLP [[link](https://opennlp.apache.org/)]
+- OpenNLP (Java) [[link](https://opennlp.apache.org/)]
 
-- gensim [[github](https://github.com/RaRe-Technologies/gensim)]
+- gensim (Python) [[github](https://github.com/RaRe-Technologies/gensim)]
 
 
 ### Chinese Word Segment 中文分词
