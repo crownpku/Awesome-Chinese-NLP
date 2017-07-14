@@ -35,6 +35,16 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 [OpenNLP](https://opennlp.apache.org/)
 
 
+
+### Information Extraction 信息提取
+
+[MITIE](https://github.com/mit-nlp/MITIE)
+
+[Duckling](https://github.com/facebookincubator/duckling)
+
+
+
+
 ### Corpus 中文语料
 
 To do
