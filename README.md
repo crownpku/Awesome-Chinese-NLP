@@ -4,7 +4,10 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 
 
-### Chinese NLP Toolkits 中文NLP工具包
+## Chinese NLP Toolkits 中文NLP工具
+
+
+### Toolkits 综合NLP工具包
 
 - THULAC 中文词法分析工具包 by 清华 (C++/Java/Python) [[link](http://thulac.thunlp.org/)]
 
@@ -24,17 +27,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - YaYaNLP (Python) [[github](https://github.com/Tony-Wang/YaYaNLP)]
 
-- Jieba 结巴中文分词 (Python) [[github](https://github.com/fxsjy/jieba)]
 
-- kcws 深度学习中文分词 (Python) [[github](https://github.com/koth/kcws)]
-
-- Genius 中文分词 (Python) [[github](https://github.com/duanhongyi/genius)]
-
-- loso 中文分词 (Python) [[github](https://github.com/fangpenlin/loso)]
-
-
-
-### Popular NLP Toolkits fir English/Multi-Language 常用的英文或支持多语言的NLP工具包
+### Popular NLP Toolkits for English/Multi-Language 常用的英文或支持多语言的NLP工具包
 
 - CoreNLP by Stanford (Java) [[github](https://github.com/stanfordnlp/CoreNLP)]
 
@@ -45,6 +39,15 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - OpenNLP [[link](https://opennlp.apache.org/)]
 
 
+### Chinese Word Segment 中文分词
+
+- Jieba 结巴中文分词 (Python) [[github](https://github.com/fxsjy/jieba)]
+
+- kcws 深度学习中文分词 (Python) [[github](https://github.com/koth/kcws)]
+
+- Genius 中文分词 (Python) [[github](https://github.com/duanhongyi/genius)]
+
+- loso 中文分词 (Python) [[github](https://github.com/fangpenlin/loso)]
 
 
 ### Information Extraction 信息提取
@@ -55,8 +58,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 
 
-
-### Corpus 中文语料
+## Corpus 中文语料
 
 - 用于训练中英文对话系统的语料库 Datasets for Training Chatbot System [[github](https://github.com/candlewill/Dialog_Corpus)]
 
