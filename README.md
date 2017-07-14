@@ -84,6 +84,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ## Corpus 中文语料
 
+- 开放知识图谱OpenKG.cn [[link](http://openkg.cn)]
+
 - 用于训练中英文对话系统的语料库 Datasets for Training Chatbot System [[github](https://github.com/candlewill/Dialog_Corpus)]
 
 - 中文 Wikipedia Dump [[link](https://dumps.wikimedia.org/zhwiki/)]
