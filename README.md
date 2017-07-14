@@ -38,6 +38,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - OpenNLP [[link](https://opennlp.apache.org/)]
 
+- gensim [[github](https://github.com/RaRe-Technologies/gensim)]
+
 
 ### Chinese Word Segment 中文分词
 
@@ -50,12 +52,34 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - loso 中文分词 (Python) [[github](https://github.com/fangpenlin/loso)]
 
 
+### Chinese Entity Recoginition 中文实体识别
+
+- ChineseNER (Python) [[github](https://github.com/zjy-ucas/ChineseNER)]
+
+
 ### Information Extraction 信息提取
 
-- MITIE [[github](https://github.com/mit-nlp/MITIE)]
+- MITIE (C++) [[github](https://github.com/mit-nlp/MITIE)]
 
-- Duckling [[github](https://github.com/facebookincubator/duckling)]
+- Duckling (Haskell) [[github](https://github.com/facebookincubator/duckling)]
 
+- IEPY (Python) [[github](https://github.com/machinalis/iepy)]
+
+
+### Natrual Language Understanding 自然语言理解
+
+- Rasa NLU (Python) [[github](https://github.com/RasaHQ/rasa_nlu)]
+
+
+### QA & Chatbot 问答和聊天机器人 
+
+- Chatterbot (Python) [[github](https://github.com/gunthercox/ChatterBot)]
+
+- Chatbot (Python) [[github](https://github.com/zake7749/Chatbot)]
+
+- Tipask (PHP) [[github](https://github.com/sdfsky/tipask)]
+
+- QuestionAnsweringSystem (Java) [[github](https://github.com/ysc/QuestionAnsweringSystem)]
 
 
 ## Corpus 中文语料
@@ -70,4 +94,13 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - 搜狗20061127新闻语料(包含分类)@百度盘 [[link](https://pan.baidu.com/s/1bnhXX6Z)]
 
+- UDChinese (for training spaCy POS) [[github](https://github.com/UniversalDependencies/UD_Chinese)]
 
+- 八卦版問答中文語料 [[github](https://github.com/zake7749/Gossiping-Chinese-Corpus)]
+
+- 中文word2vec模型 [[github](https://github.com/to-shimo/chinese-word2vec)]
+
+
+## Learning Materials 学习资料
+
+- 中文Deep Learning Book [[github](https://github.com/exacity/deeplearningbook-chinese)]
