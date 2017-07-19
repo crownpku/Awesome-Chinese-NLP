@@ -27,6 +27,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - YaYaNLP (Python) [[github](https://github.com/Tony-Wang/YaYaNLP)]
 
+- DeepNLP (Python) [[github](https://github.com/rockingdingo/deepnlp)]
+
 
 ### Popular NLP Toolkits for English/Multi-Language 常用的英文或支持多语言的NLP工具包
 
