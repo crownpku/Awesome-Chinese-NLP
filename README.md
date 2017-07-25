@@ -56,11 +56,6 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - loso 中文分词 (Python) [[github](https://github.com/fangpenlin/loso)]
 
 
-### Chinese Entity Recoginition 中文实体识别
-
-- ChineseNER (Python) [[github](https://github.com/zjy-ucas/ChineseNER)]
-
-
 ### Information Extraction 信息提取
 
 - MITIE (C++) [[github](https://github.com/mit-nlp/MITIE)]
@@ -110,3 +105,11 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 ## Learning Materials 学习资料
 
 - 中文Deep Learning Book [[github](https://github.com/exacity/deeplearningbook-chinese)]
+
+- Stanford CS224n Natural Language Processing with Deep Learning [[link](http://web.stanford.edu/class/cs224n/syllabus.html)]
+
+- Speech and Language Processing by Dan Jurafsky and James H. Martin [[link](https://web.stanford.edu/~jurafsky/slp3/)]
+
+- 52nlp 我爱自然语言处理 [[blog](http://www.52nlp.cn/)]
+
+- hankcs 码农场 [[blog](http://www.hankcs.com/)]
