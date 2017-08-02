@@ -80,6 +80,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - QuestionAnsweringSystem (Java) [[github](https://github.com/ysc/QuestionAnsweringSystem)]
 
+- 使用TensorFlow实现的Sequence to Sequence的聊天机器人模型 (Python) [[github](https://github.com/qhduan/Seq2Seq_Chatbot_QA)]
+
 
 ## Corpus 中文语料
 
@@ -100,6 +102,10 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - 八卦版問答中文語料 [[github](https://github.com/zake7749/Gossiping-Chinese-Corpus)]
 
 - 中文word2vec模型 [[github](https://github.com/to-shimo/chinese-word2vec)]
+
+- 中文突发事件语料库（Chinese Emergency Corpus）[[github](https://github.com/shijiebei2009/CEC-Corpus)]
+
+- dgk_lost_conv 中文对白语料 chinese conversation corpus [[github](https://github.com/rustch3n/dgk_lost_conv)]
 
 
 ## Learning Materials 学习资料
