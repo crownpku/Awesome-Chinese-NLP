@@ -107,6 +107,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - dgk_lost_conv 中文对白语料 chinese conversation corpus [[github](https://github.com/rustch3n/dgk_lost_conv)]
 
+- 漢語拆字字典 [[github](https://github.com/kfcd/chaizi)]
+
 
 ## Learning Materials 学习资料
 
