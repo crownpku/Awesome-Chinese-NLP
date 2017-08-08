@@ -114,7 +114,9 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - 中文Deep Learning Book [[github](https://github.com/exacity/deeplearningbook-chinese)]
 
-- Stanford CS224n Natural Language Processing with Deep Learning [[link](http://web.stanford.edu/class/cs224n/syllabus.html)]
+- Stanford CS224n Natural Language Processing with Deep Learning 2017 [[link](http://web.stanford.edu/class/cs224n/syllabus.html)]
+
+- Oxford CS DeepNLP 2017 [[github](https://github.com/oxford-cs-deepnlp-2017)]
 
 - Speech and Language Processing by Dan Jurafsky and James H. Martin [[link](https://web.stanford.edu/~jurafsky/slp3/)]
 
