@@ -64,6 +64,12 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - IEPY (Python) [[github](https://github.com/machinalis/iepy)]
 
+- Snorkel: A training data creation and management system focused on information extraction [[github](https://github.com/HazyResearch/snorkel)]
+
+- Neural Relation Extraction implemented with LSTM in TensorFlow [[github](https://github.com/thunlp/TensorFlow-NRE)]
+
+- A neural network model for Chinese named entity recognition [[github](https://github.com/zjy-ucas/ChineseNER)]
+
 
 ### Natrual Language Understanding 自然语言理解
 
