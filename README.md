@@ -115,7 +115,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - 漢語拆字字典 [[github](https://github.com/kfcd/chaizi)]
 
-- 中国股市公告信息爬取 [[github](https://github.com/startprogress/China_stock_announcement)]
+- 中国股市公告信息爬取 [[github](https://github.com/startprogress/China_stock_announcement)] 通过python脚本从巨潮网络的服务器获取中国股市（sz,sh）的公告(上市公司和监管机构)
 
 
 ## Learning Materials 学习资料
@@ -132,6 +132,6 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - hankcs 码农场 [[blog](http://www.hankcs.com/)]
 
-- 文本处理实践课资料 [[github](https://github.com/Roshanson/TextInfoExp)]
+- 文本处理实践课资料 [[github](https://github.com/Roshanson/TextInfoExp)] 文本处理实践课资料，包含文本特征提取（TF-IDF），文本分类，文本聚类，word2vec训练词向量及同义词词林中文词语相似度计算、文档自动摘要，信息抽取，情感分析与观点挖掘等实验。
 
 
