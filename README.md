@@ -115,7 +115,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - 漢語拆字字典 [[github](https://github.com/kfcd/chaizi)]
 
-- 中国股市公告信息爬取[[github](https://github.com/startprogress/China_stock_announcement)]
+- 中国股市公告信息爬取 [[github](https://github.com/startprogress/China_stock_announcement)]
 
 
 ## Learning Materials 学习资料
