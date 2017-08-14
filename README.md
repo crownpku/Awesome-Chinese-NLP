@@ -117,6 +117,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - 中国股市公告信息爬取 [[github](https://github.com/startprogress/China_stock_announcement)] 通过python脚本从巨潮网络的服务器获取中国股市（sz,sh）的公告(上市公司和监管机构)
 
+- tushare财经数据接口 [[website](http://tushare.org/)] TuShare是一个免费、开源的python财经数据接口包。
 
 ## Learning Materials 学习资料
 
