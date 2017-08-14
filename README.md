@@ -115,6 +115,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - 漢語拆字字典 [[github](https://github.com/kfcd/chaizi)]
 
+- 中国股市公告信息爬取[[github](https://github.com/startprogress/China_stock_announcement)]
+
 
 ## Learning Materials 学习资料
 
@@ -129,3 +131,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - 52nlp 我爱自然语言处理 [[blog](http://www.52nlp.cn/)]
 
 - hankcs 码农场 [[blog](http://www.hankcs.com/)]
+
+- 文本处理实践课资料 [[github](https://github.com/Roshanson/TextInfoExp)]
+
+
