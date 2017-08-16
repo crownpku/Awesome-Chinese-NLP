@@ -93,6 +93,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - 开放知识图谱OpenKG.cn [[link](http://openkg.cn)]
 
+- CLDC中文语言资源联盟 [[link](http://www.chineseldc.org/)]
+
 - 用于训练中英文对话系统的语料库 Datasets for Training Chatbot System [[github](https://github.com/candlewill/Dialog_Corpus)]
 
 - 中文 Wikipedia Dump [[link](https://dumps.wikimedia.org/zhwiki/)]
@@ -118,6 +120,12 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - 中国股市公告信息爬取 [[github](https://github.com/startprogress/China_stock_announcement)] 通过python脚本从巨潮网络的服务器获取中国股市（sz,sh）的公告(上市公司和监管机构)
 
 - tushare财经数据接口 [[website](http://tushare.org/)] TuShare是一个免费、开源的python财经数据接口包。
+
+
+## Organizations 相关中文NLP组织和会议
+
+- 中国中文信息学会 [[website](http://www.cipsc.org.cn/)]
+
 
 ## Learning Materials 学习资料
 
