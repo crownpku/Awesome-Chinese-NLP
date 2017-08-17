@@ -23,9 +23,9 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - HanNLP (Java) [[github](https://github.com/hankcs/HanLP)]
 
-- SnowNLP (Python) [[github](https://github.com/isnowfy/snownlp)]
+- SnowNLP (Python) [[github](https://github.com/isnowfy/snownlp)] Python library for processing Chinese text
 
-- YaYaNLP (Python) [[github](https://github.com/Tony-Wang/YaYaNLP)]
+- YaYaNLP (Python) [[github](https://github.com/Tony-Wang/YaYaNLP)] 纯python编写的中文自然语言处理包，取名于“牙牙学语”
 
 - DeepNLP (Python) [[github](https://github.com/rockingdingo/deepnlp)] Deep Learning NLP Pipeline implemented on Tensorflow with pretrained Chinese models.
 
@@ -42,27 +42,27 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - OpenNLP (Java) [[link](https://opennlp.apache.org/)]
 
-- gensim (Python) [[github](https://github.com/RaRe-Technologies/gensim)]
+- gensim (Python) [[github](https://github.com/RaRe-Technologies/gensim)] Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. 
 
 
 ### Chinese Word Segment 中文分词
 
-- Jieba 结巴中文分词 (Python) [[github](https://github.com/fxsjy/jieba)]
+- Jieba 结巴中文分词 (Python) [[github](https://github.com/fxsjy/jieba)] 做最好的 Python 中文分词组件
 
-- kcws 深度学习中文分词 (Python) [[github](https://github.com/koth/kcws)]
+- kcws 深度学习中文分词 (Python) [[github](https://github.com/koth/kcws)] BiLSTM+CRF与IDCNN+CRF
 
-- Genius 中文分词 (Python) [[github](https://github.com/duanhongyi/genius)]
+- Genius 中文分词 (Python) [[github](https://github.com/duanhongyi/genius)] Genius是一个开源的python中文分词组件，采用 CRF(Conditional Random Field)条件随机场算法。
 
-- loso 中文分词 (Python) [[github](https://github.com/fangpenlin/loso)]
+- loso 中文分词 (Python) [[github](https://github.com/fangpenlin/loso)] 
 
 
 ### Information Extraction 信息提取
 
-- MITIE (C++) [[github](https://github.com/mit-nlp/MITIE)]
+- MITIE (C++) [[github](https://github.com/mit-nlp/MITIE)] library and tools for information extraction
 
-- Duckling (Haskell) [[github](https://github.com/facebookincubator/duckling)]
+- Duckling (Haskell) [[github](https://github.com/facebookincubator/duckling)] Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 
-- IEPY (Python) [[github](https://github.com/machinalis/iepy)]
+- IEPY (Python) [[github](https://github.com/machinalis/iepy)] IEPY is an open source tool for Information Extraction focused on Relation Extraction.
 
 - Snorkel: A training data creation and management system focused on information extraction [[github](https://github.com/HazyResearch/snorkel)]
 
@@ -73,20 +73,20 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ### Natrual Language Understanding 自然语言理解
 
-- Rasa NLU (Python) [[github](https://github.com/RasaHQ/rasa_nlu)]
+- Rasa NLU (Python) [[github](https://github.com/RasaHQ/rasa_nlu)] turn natural language into structured data 
 
 
 ### QA & Chatbot 问答和聊天机器人 
 
-- Chatterbot (Python) [[github](https://github.com/gunthercox/ChatterBot)]
+- Chatterbot (Python) [[github](https://github.com/gunthercox/ChatterBot)] ChatterBot is a machine learning, conversational dialog engine for creating chat bots.
 
-- Chatbot (Python) [[github](https://github.com/zake7749/Chatbot)]
+- Chatbot (Python) [[github](https://github.com/zake7749/Chatbot)] 基於向量匹配的情境式聊天機器人
 
-- Tipask (PHP) [[github](https://github.com/sdfsky/tipask)]
+- Tipask (PHP) [[github](https://github.com/sdfsky/tipask)] 一款开放源码的PHP问答系统，基于Laravel框架开发，容易扩展，具有强大的负载能力和稳定性。
 
-- QuestionAnsweringSystem (Java) [[github](https://github.com/ysc/QuestionAnsweringSystem)]
+- QuestionAnsweringSystem (Java) [[github](https://github.com/ysc/QuestionAnsweringSystem)] 一个Java实现的人机问答系统，能够自动分析问题并给出候选答案。
 
-- 使用TensorFlow实现的Sequence to Sequence的聊天机器人模型 (Python) [[github](https://github.com/qhduan/Seq2Seq_Chatbot_QA)]
+- 使用TensorFlow实现的Sequence to Sequence的聊天机器人模型 (Python) [[github](https://github.com/qhduan/Seq2Seq_Chatbot_QA)] 
 
 
 ## Corpus 中文语料
@@ -125,6 +125,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 ## Organizations 相关中文NLP组织和会议
 
 - 中国中文信息学会 [[website](http://www.cipsc.org.cn/)]
+
+- NLP Conference Calender [[website](http://cs.rochester.edu/~omidb/nlpcalendar/)] Main conferences, journals, workshops and shared tasks in NLP community.
 
 
 ## Learning Materials 学习资料
