@@ -123,6 +123,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - 保险行业语料库 [[github](https://github.com/Samurais/insuranceqa-corpus-zh)] [[52nlp介绍Blog](http://www.52nlp.cn/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BF%9D%E9%99%A9%E8%A1%8C%E4%B8%9A%E9%97%AE%E7%AD%94%E5%BC%80%E6%94%BE%E6%95%B0%E6%8D%AE%E9%9B%86)] OpenData in insurance area for Machine Learning Tasks
 
+- 最全中华古诗词数据库 [[github](https://github.com/chinese-poetry/chinese-poetry)] 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+
 
 ## Organizations 相关中文NLP组织和会议
 
