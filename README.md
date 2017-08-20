@@ -4,11 +4,11 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ## Contents 列表
 
- 1. [**Chinese NLP Toolkits 中文NLP工具**](https://github.com/crownpku/awesome-chinese-nlp#chinese-nlp-toolkits-中文nlp工具)  
+ 1. [Chinese NLP Toolkits 中文NLP工具](https://github.com/crownpku/awesome-chinese-nlp#chinese-nlp-toolkits-中文nlp工具)  
  
   1.1 [Toolkits 综合NLP工具包**](https://github.com/crownpku/awesome-chinese-nlp#toolkits-综合nlp工具包) 
   
-  **1.2 [Popular NLP Toolkits for English/Multi-Language 常用的英文或支持多语言的NLP工具包](https://github.com/crownpku/awesome-chinese-nlp#popular-nlp-toolkits-for-englishmulti-language-常用的英文或支持多语言的nlp工具包)**
+  1.2 [Popular NLP Toolkits for English/Multi-Language 常用的英文或支持多语言的NLP工具包](https://github.com/crownpku/awesome-chinese-nlp#popular-nlp-toolkits-for-englishmulti-language-常用的英文或支持多语言的nlp工具包)**
   
   1.3 [Chinese Word Segment 中文分词](https://github.com/crownpku/awesome-chinese-nlp#chinese-word-segment-中文分词)
   
