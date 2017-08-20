@@ -4,6 +4,11 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 中文自然语言处理相关资料
 
+图片来自复旦大学邱锡鹏教授
+
+![](/images/1.jpg)
+
+
 ## Contents 列表
 
 
