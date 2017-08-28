@@ -109,6 +109,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [使用TensorFlow实现的Sequence to Sequence的聊天机器人模型](https://github.com/qhduan/Seq2Seq_Chatbot_QA) (Python)
 
+- [使用深度学习算法实现的中文阅读理解问答系统](https://github.com/S-H-Y-GitHub/QA)
+
 
 ## Corpus 中文语料
 
