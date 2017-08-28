@@ -132,7 +132,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [中文word2vec模型](https://github.com/to-shimo/chinese-word2vec)
 
-- [中文突发事件语料库](https://github.com/shijiebei2009/CEC-Corpus)（Chinese Emergency Corpus
+- [中文突发事件语料库](https://github.com/shijiebei2009/CEC-Corpus) Chinese Emergency Corpus
 
 - [dgk_lost_conv 中文对白语料](https://github.com/rustch3n/dgk_lost_conv) chinese conversation corpus
 
@@ -146,7 +146,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [最全中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry) 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
 
-- [中文语料小数据](https://github.com/crownpku/Small-Chinese-Corpus)
+- [中文语料小数据](https://github.com/crownpku/Small-Chinese-Corpus) 包含了中文命名实体识别、中文关系识别、中文阅读理解等一些小量数据
 
 ## Organizations 相关中文NLP组织和会议
 
