@@ -92,6 +92,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [A neural network model for Chinese named entity recognition](https://github.com/zjy-ucas/ChineseNER)
 
+- [Information-Extraction-Chinese](https://github.com/crownpku/Information-Extraction-Chinese) Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT 中文实体识别与关系提取
+
 
 ### QA & Chatbot 问答和聊天机器人 
 
@@ -144,6 +146,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [最全中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry) 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
 
+- [中文语料小数据](https://github.com/crownpku/Small-Chinese-Corpus)
 
 ## Organizations 相关中文NLP组织和会议
 
