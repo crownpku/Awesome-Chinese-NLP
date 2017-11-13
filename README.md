@@ -118,6 +118,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [开放知识图谱OpenKG.cn](http://openkg.cn)
 
+- [大规模中文概念图谱CN-Probase](http://kw.fudan.edu.cn/cnprobase/search/) [公众号介绍](https://mp.weixin.qq.com/s?__biz=MzI0MTI1Nzk1MA==&mid=2651675884&idx=1&sn=1a43a93fd5bb53c8a9e48518bfa41db8&chksm=f2f7a05dc580294b227332b1051bfa2e5c756c72efb4d102c83613185b571ac31343720a6eae&mpshare=1&scene=1&srcid=1113llNDS1MvoadhCki83ERW#rd)
+
 - [CLDC中文语言资源联盟](http://www.chineseldc.org/)
 
 - [用于训练中英文对话系统的语料库](https://github.com/candlewill/Dialog_Corpus) Datasets for Training Chatbot System 
