@@ -113,6 +113,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [使用深度学习算法实现的中文阅读理解问答系统](https://github.com/S-H-Y-GitHub/QA)
 
+- [DuReader中文阅读理解Baseline代码](https://github.com/baidu/DuReader) 
+
 
 ## Corpus 中文语料
 
@@ -121,8 +123,6 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [大规模中文概念图谱CN-Probase](http://kw.fudan.edu.cn/cnprobase/search/) [公众号介绍](https://mp.weixin.qq.com/s?__biz=MzI0MTI1Nzk1MA==&mid=2651675884&idx=1&sn=1a43a93fd5bb53c8a9e48518bfa41db8&chksm=f2f7a05dc580294b227332b1051bfa2e5c756c72efb4d102c83613185b571ac31343720a6eae&mpshare=1&scene=1&srcid=1113llNDS1MvoadhCki83ERW#rd)
 
 - [CLDC中文语言资源联盟](http://www.chineseldc.org/)
-
-- [用于训练中英文对话系统的语料库](https://github.com/candlewill/Dialog_Corpus) Datasets for Training Chatbot System 
 
 - [中文 Wikipedia Dump](https://dumps.wikimedia.org/zhwiki/)
 
@@ -134,8 +134,6 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [UDChinese](https://github.com/UniversalDependencies/UD_Chinese) (for training spaCy POS)
 
-- [八卦版問答中文語料](https://github.com/zake7749/Gossiping-Chinese-Corpus)
-
 - [中文word2vec模型](https://github.com/to-shimo/chinese-word2vec)
 
 - [中文word2vec模型之维基百科中文](https://github.com/Samurais/wikidata-corpus) 使用2017年6月20日中文维基百科语料训练的脚本和模型文件。
@@ -145,6 +143,10 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [中文突发事件语料库](https://github.com/shijiebei2009/CEC-Corpus) Chinese Emergency Corpus
 
 - [dgk_lost_conv 中文对白语料](https://github.com/rustch3n/dgk_lost_conv) chinese conversation corpus
+
+- [用于训练中英文对话系统的语料库](https://github.com/candlewill/Dialog_Corpus) Datasets for Training Chatbot System 
+
+- [八卦版問答中文語料](https://github.com/zake7749/Gossiping-Chinese-Corpus)
 
 - [漢語拆字字典](https://github.com/kfcd/chaizi)
 
@@ -156,7 +158,10 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [最全中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry) 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
 
+- [DuReader中文阅读理解数据](http://ai.baidu.com/broad/subordinate?dataset=dureader) 
+
 - [中文语料小数据](https://github.com/crownpku/Small-Chinese-Corpus) 包含了中文命名实体识别、中文关系识别、中文阅读理解等一些小量数据
+
 
 ## Organizations 相关中文NLP组织和会议
 
