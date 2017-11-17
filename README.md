@@ -111,9 +111,9 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [使用TensorFlow实现的Sequence to Sequence的聊天机器人模型](https://github.com/qhduan/Seq2Seq_Chatbot_QA) (Python)
 
-- [使用深度学习算法实现的中文阅读理解问答系统](https://github.com/S-H-Y-GitHub/QA)
+- [使用深度学习算法实现的中文阅读理解问答系统](https://github.com/S-H-Y-GitHub/QA) (Python)
 
-- [DuReader中文阅读理解Baseline代码](https://github.com/baidu/DuReader) 
+- [DuReader中文阅读理解Baseline代码](https://github.com/baidu/DuReader) (Python)
 
 
 ## Corpus 中文语料
@@ -139,6 +139,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [中文word2vec模型之维基百科中文](https://github.com/Samurais/wikidata-corpus) 使用2017年6月20日中文维基百科语料训练的脚本和模型文件。
 
 - [Synonyms:中文近义词工具包](https://github.com/huyingxi/Synonyms/) 基于维基百科中文和word2vec训练的近义词库，封装为python包文件。
+
+- [Chinese_conversation_sentiment](https://github.com/z17176/Chinese_conversation_sentiment) A Chinese sentiment dataset may be useful for sentiment analysis.
 
 - [中文突发事件语料库](https://github.com/shijiebei2009/CEC-Corpus) Chinese Emergency Corpus
 
