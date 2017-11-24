@@ -1,4 +1,5 @@
 # awesome-chinese-nlp
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of resources for NLP (Natural Language Processing) for Chinese
 
