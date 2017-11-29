@@ -170,6 +170,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [中文语料小数据](https://github.com/crownpku/Small-Chinese-Corpus) 包含了中文命名实体识别、中文关系识别、中文阅读理解等一些小量数据
 
+- [中文数据预处理材料](https://github.com/dongxiexidian/Chinese) 中文分词词典和中文停用词
+
 
 ## Organizations 相关中文NLP组织和会议
 
