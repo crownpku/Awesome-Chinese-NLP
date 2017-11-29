@@ -29,6 +29,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 
 
+
 ## Chinese NLP Toolkits 中文NLP工具
 
 
@@ -54,6 +55,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [chinese_nlp](https://github.com/taozhijiang/chinese_nlp) (C++ & Python) Chinese Natural Language Processing tools and examples
 
+- [Chinese-Annotator](https://github.com/crownpku/Chinese-Annotator) (Python) Annotator for Chinese Text Corpus 中文文本标注工具
+
 
 ### Popular NLP Toolkits for English/Multi-Language 常用的英文或支持多语言的NLP工具包
 
@@ -73,6 +76,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [Jieba 结巴中文分词](https://github.com/fxsjy/jieba) (Python) 做最好的 Python 中文分词组件
 
 - [kcws 深度学习中文分词](https://github.com/koth/kcws) (Python) BiLSTM+CRF与IDCNN+CRF
+
+- [ID-CNN-CWS](https://github.com/hankcs/ID-CNN-CWS) (Python) Iterated Dilated Convolutions for Chinese Word Segmentation
 
 - [Genius 中文分词](https://github.com/duanhongyi/genius) (Python) Genius是一个开源的python中文分词组件，采用 CRF(Conditional Random Field)条件随机场算法。
 
