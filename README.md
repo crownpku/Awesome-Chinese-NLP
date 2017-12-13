@@ -156,8 +156,6 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [八卦版問答中文語料](https://github.com/zake7749/Gossiping-Chinese-Corpus)
 
-- [漢語拆字字典](https://github.com/kfcd/chaizi)
-
 - [中国股市公告信息爬取](https://github.com/startprogress/China_stock_announcement) 通过python脚本从巨潮网络的服务器获取中国股市（sz,sh）的公告(上市公司和监管机构)
 
 - [tushare财经数据接口](http://tushare.org/) TuShare是一个免费、开源的python财经数据接口包。
@@ -170,7 +168,11 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [中文语料小数据](https://github.com/crownpku/Small-Chinese-Corpus) 包含了中文命名实体识别、中文关系识别、中文阅读理解等一些小量数据
 
+- [中文人名语料库](https://github.com/wainshine/Chinese-Names-Corpus) 中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。
+
 - [中文数据预处理材料](https://github.com/dongxiexidian/Chinese) 中文分词词典和中文停用词
+
+- [漢語拆字字典](https://github.com/kfcd/chaizi)
 
 
 ## Organizations 相关中文NLP组织和会议
