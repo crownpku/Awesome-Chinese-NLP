@@ -168,6 +168,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [中文人名语料库](https://github.com/wainshine/Chinese-Names-Corpus) 中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。
 
+- [中文敏感词词库](https://github.com/observerss/textfilter) 敏感词过滤的几种实现+某1w词敏感词库
+
 - [中文数据预处理材料](https://github.com/dongxiexidian/Chinese) 中文分词词典和中文停用词
 
 - [漢語拆字字典](https://github.com/kfcd/chaizi)
