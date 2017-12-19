@@ -142,8 +142,6 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [中文word2vec模型](https://github.com/to-shimo/chinese-word2vec)
 
-- [中文word2vec模型之维基百科中文](https://github.com/Samurais/wikidata-corpus) 使用2017年6月20日中文维基百科语料训练的脚本和模型文件。
-
 - [Synonyms:中文近义词工具包](https://github.com/huyingxi/Synonyms/) 基于维基百科中文和word2vec训练的近义词库，封装为python包文件。
 
 - [Chinese_conversation_sentiment](https://github.com/z17176/Chinese_conversation_sentiment) A Chinese sentiment dataset may be useful for sentiment analysis.
