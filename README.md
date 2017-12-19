@@ -121,6 +121,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [DuReader中文阅读理解Baseline代码](https://github.com/baidu/DuReader) (Python)
 
+- [基于SmartQQ的自动机器人框架](https://github.com/Yinzo/SmartQQBot) (Python)
+
 
 ## Corpus 中文语料
 
