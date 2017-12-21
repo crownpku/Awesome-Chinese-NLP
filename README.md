@@ -73,7 +73,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ### Chinese Word Segment 中文分词
 
-- [Jieba 结巴中文分词](https://github.com/fxsjy/jieba) (Python) 做最好的 Python 中文分词组件
+- [Jieba 结巴中文分词](https://github.com/fxsjy/jieba) (Python及大量其它编程语言衍生) 做最好的 Python 中文分词组件
 
 - [kcws 深度学习中文分词](https://github.com/koth/kcws) (Python) BiLSTM+CRF与IDCNN+CRF
 
@@ -81,7 +81,9 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [Genius 中文分词](https://github.com/duanhongyi/genius) (Python) Genius是一个开源的python中文分词组件，采用 CRF(Conditional Random Field)条件随机场算法。
 
-- [loso 中文分词](https://github.com/fangpenlin/loso) (Python) 
+- [loso 中文分词](https://github.com/fangpenlin/loso) (Python)
+
+- [yaha "哑哈"中文分词](https://github.com/jannson/yaha) (Python)
 
 
 ### Information Extraction 信息提取
