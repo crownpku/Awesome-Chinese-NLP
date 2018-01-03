@@ -85,6 +85,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [yaha "哑哈"中文分词](https://github.com/jannson/yaha) (Python)
 
+- [ChineseWordSegmentation](https://github.com/Moonshile/ChineseWordSegmentation) (Python) Chinese word segmentation algorithm without corpus（无需语料库的中文分词）
+
 
 ### Information Extraction 信息提取
 
@@ -116,6 +118,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [Tipask](https://github.com/sdfsky/tipask) (PHP) 一款开放源码的PHP问答系统，基于Laravel框架开发，容易扩展，具有强大的负载能力和稳定性。
 
 - [QuestionAnsweringSystem](https://github.com/ysc/QuestionAnsweringSystem) (Java) 一个Java实现的人机问答系统，能够自动分析问题并给出候选答案。
+
+- [QA-Snake](https://github.com/SnakeHacker/QA-Snake) (Python) 基于多搜索引擎和深度学习技术的自动问答
 
 - [使用TensorFlow实现的Sequence to Sequence的聊天机器人模型](https://github.com/qhduan/Seq2Seq_Chatbot_QA) (Python)
 
