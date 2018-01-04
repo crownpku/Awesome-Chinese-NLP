@@ -96,13 +96,15 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [IEPY](https://github.com/machinalis/iepy) (Python)  IEPY is an open source tool for Information Extraction focused on Relation Extraction.
 
-- [Snorkel](https://github.com/HazyResearch/snorkel): A training data creation and management system focused on information extraction 
+- [Snorkel](https://github.com/HazyResearch/snorkel) A training data creation and management system focused on information extraction 
 
 - [Neural Relation Extraction implemented with LSTM in TensorFlow](https://github.com/thunlp/TensorFlow-NRE)
 
 - [A neural network model for Chinese named entity recognition](https://github.com/zjy-ucas/ChineseNER)
 
 - [Information-Extraction-Chinese](https://github.com/crownpku/Information-Extraction-Chinese) Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT 中文实体识别与关系提取
+
+- [Familia](https://github.com/baidu/Familia) 百度出品的 A Toolkit for Industrial Topic Modeling
 
 
 ### QA & Chatbot 问答和聊天机器人 
