@@ -60,13 +60,13 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ### Popular NLP Toolkits for English/Multi-Language 常用的英文或支持多语言的NLP工具包
 
-- [CoreNLP](https://github.com/stanfordnlp/CoreNLP) by Stanford (Java)
+- [CoreNLP](https://github.com/stanfordnlp/CoreNLP) by Stanford (Java) A Java suite of core NLP tools.
 
-- [NLTK](http://www.nltk.org/) (Python)
+- [NLTK](http://www.nltk.org/) (Python) Natural Language Toolkit
 
-- [spaCy](https://spacy.io/) (Python)
+- [spaCy](https://spacy.io/) (Python) Industrial-Strength Natural Language Processing
 
-- [OpenNLP](https://opennlp.apache.org/) (Java)
+- [OpenNLP](https://opennlp.apache.org/) (Java) A machine learning based toolkit for the processing of natural language text.
 
 - [gensim](https://github.com/RaRe-Technologies/gensim) (Python) Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. 
 
