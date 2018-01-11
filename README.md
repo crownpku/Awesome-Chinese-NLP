@@ -8,11 +8,10 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 图片来自复旦大学邱锡鹏教授
 
 ![](/images/1.jpg)
-
-
+  
+  
 ## Contents 列表
-
-
+  
 ### 1. [Chinese NLP Toolkits 中文NLP工具](https://github.com/crownpku/awesome-chinese-nlp#chinese-nlp-toolkits-中文nlp工具)
 
 * #### [Toolkits 综合NLP工具包](https://github.com/crownpku/awesome-chinese-nlp#toolkits-综合nlp工具包-1)
@@ -26,13 +25,11 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 ### 3. [Organizations 相关中文NLP组织和会议](https://github.com/crownpku/awesome-chinese-nlp#organizations-相关中文nlp组织和会议)
 
 ### 4. [Learning Materials 学习资料](https://github.com/crownpku/awesome-chinese-nlp#learning-materials-学习资料)
-
-
-
-
+  
+  
+  
 ## Chinese NLP Toolkits 中文NLP工具
-
-
+  
 ### Toolkits 综合NLP工具包
 
 - [THULAC 中文词法分析工具包](http://thulac.thunlp.org/) by 清华 (C++/Java/Python)
@@ -56,8 +53,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [chinese_nlp](https://github.com/taozhijiang/chinese_nlp) (C++ & Python) Chinese Natural Language Processing tools and examples
 
 - [Chinese-Annotator](https://github.com/crownpku/Chinese-Annotator) (Python) Annotator for Chinese Text Corpus 中文文本标注工具
-
-
+  
 ### Popular NLP Toolkits for English/Multi-Language 常用的英文或支持多语言的NLP工具包
 
 - [CoreNLP](https://github.com/stanfordnlp/CoreNLP) by Stanford (Java) A Java suite of core NLP tools.
@@ -70,7 +66,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [gensim](https://github.com/RaRe-Technologies/gensim) (Python) Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. 
 
-
+  
 ### Chinese Word Segment 中文分词
 
 - [Jieba 结巴中文分词](https://github.com/fxsjy/jieba) (Python及大量其它编程语言衍生) 做最好的 Python 中文分词组件
@@ -87,7 +83,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [ChineseWordSegmentation](https://github.com/Moonshile/ChineseWordSegmentation) (Python) Chinese word segmentation algorithm without corpus（无需语料库的中文分词）
 
-
+  
 ### Information Extraction 信息提取
 
 - [MITIE](https://github.com/mit-nlp/MITIE) (C++) library and tools for information extraction
@@ -106,7 +102,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [Familia](https://github.com/baidu/Familia) 百度出品的 A Toolkit for Industrial Topic Modeling
 
-
+  
 ### QA & Chatbot 问答和聊天机器人 
 
 - [Rasa NLU](https://github.com/RasaHQ/rasa_nlu) (Python) turn natural language into structured data 
@@ -131,7 +127,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [基于SmartQQ的自动机器人框架](https://github.com/Yinzo/SmartQQBot) (Python)
 
-
+  
 ## Corpus 中文语料
 
 - [开放知识图谱OpenKG.cn](http://openkg.cn)
@@ -183,15 +179,15 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [中文数据预处理材料](https://github.com/dongxiexidian/Chinese) 中文分词词典和中文停用词
 
 - [漢語拆字字典](https://github.com/kfcd/chaizi)
-
-
+  
+  
 ## Organizations 相关中文NLP组织和会议
 
 - [中国中文信息学会](http://www.cipsc.org.cn/)
 
 - [NLP Conference Calender](http://cs.rochester.edu/~omidb/nlpcalendar/) Main conferences, journals, workshops and shared tasks in NLP community.
-
-
+  
+  
 ## Learning Materials 学习资料
 
 - [中文Deep Learning Book](https://github.com/exacity/deeplearningbook-chinese)
