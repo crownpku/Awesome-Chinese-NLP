@@ -26,8 +26,9 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ### 4. [Learning Materials 学习资料](https://github.com/crownpku/awesome-chinese-nlp#learning-materials-学习资料)
   
-  
-  
+<br />
+<br />
+
 ## Chinese NLP Toolkits 中文NLP工具
   
 ### Toolkits 综合NLP工具包
