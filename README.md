@@ -11,7 +11,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
   
   
 ## Contents 列表
-  
+
 ### 1. [Chinese NLP Toolkits 中文NLP工具](https://github.com/crownpku/awesome-chinese-nlp#chinese-nlp-toolkits-中文nlp工具)
 
 * #### [Toolkits 综合NLP工具包](https://github.com/crownpku/awesome-chinese-nlp#toolkits-综合nlp工具包-1)
@@ -19,18 +19,15 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 * #### [Chinese Word Segment 中文分词](https://github.com/crownpku/awesome-chinese-nlp#chinese-word-segment-中文分词-1)
 * #### [Information Extraction 信息提取](https://github.com/crownpku/awesome-chinese-nlp#information-extraction-信息提取-1)
 * #### [QA & Chatbot 问答和聊天机器人](https://github.com/crownpku/awesome-chinese-nlp#qa--chatbot-问答和聊天机器人-1)
-
 ### 2. [Corpus 中文语料](https://github.com/crownpku/awesome-chinese-nlp#corpus-中文语料)
-
 ### 3. [Organizations 相关中文NLP组织和会议](https://github.com/crownpku/awesome-chinese-nlp#organizations-相关中文nlp组织和会议)
-
 ### 4. [Learning Materials 学习资料](https://github.com/crownpku/awesome-chinese-nlp#learning-materials-学习资料)
   
 <br />
 <br />
 
 ## Chinese NLP Toolkits 中文NLP工具
-  
+
 ### Toolkits 综合NLP工具包
 
 - [THULAC 中文词法分析工具包](http://thulac.thunlp.org/) by 清华 (C++/Java/Python)
@@ -54,7 +51,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [chinese_nlp](https://github.com/taozhijiang/chinese_nlp) (C++ & Python) Chinese Natural Language Processing tools and examples
 
 - [Chinese-Annotator](https://github.com/crownpku/Chinese-Annotator) (Python) Annotator for Chinese Text Corpus 中文文本标注工具
-  
+
 ### Popular NLP Toolkits for English/Multi-Language 常用的英文或支持多语言的NLP工具包
 
 - [CoreNLP](https://github.com/stanfordnlp/CoreNLP) by Stanford (Java) A Java suite of core NLP tools.
@@ -128,7 +125,9 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [基于SmartQQ的自动机器人框架](https://github.com/Yinzo/SmartQQBot) (Python)
 
-  
+<br />
+<br />
+
 ## Corpus 中文语料
 
 - [开放知识图谱OpenKG.cn](http://openkg.cn)
@@ -181,14 +180,18 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [漢語拆字字典](https://github.com/kfcd/chaizi)
   
-  
+<br />
+<br />
+
 ## Organizations 相关中文NLP组织和会议
 
 - [中国中文信息学会](http://www.cipsc.org.cn/)
 
 - [NLP Conference Calender](http://cs.rochester.edu/~omidb/nlpcalendar/) Main conferences, journals, workshops and shared tasks in NLP community.
   
-  
+<br />
+<br />
+
 ## Learning Materials 学习资料
 
 - [中文Deep Learning Book](https://github.com/exacity/deeplearningbook-chinese)
