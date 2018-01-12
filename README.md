@@ -179,6 +179,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [中文数据预处理材料](https://github.com/dongxiexidian/Chinese) 中文分词词典和中文停用词
 
 - [漢語拆字字典](https://github.com/kfcd/chaizi)
+
+- [SentiBridge: 中文实体情感知识库](https://github.com/rainarch/SentiBridge) 刻画人们如何描述某个实体，包含新闻、旅游、餐饮，共计30万对。
   
 <br />
 <br />
