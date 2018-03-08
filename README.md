@@ -109,6 +109,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [Rasa Core](https://github.com/RasaHQ/rasa_core) (Python) machine learning based dialogue engine for conversational software
 
+- [DeepPavlov](https://github.com/deepmipt/DeepPavlov) (Python) An open source library for building end-to-end dialog systems and training chatbots.
+
 - [Chatterbot](https://github.com/gunthercox/ChatterBot) (Python) ChatterBot is a machine learning, conversational dialog engine for creating chat bots.
 
 - [Chatbot](https://github.com/zake7749/Chatbot) (Python) 基於向量匹配的情境式聊天機器人
