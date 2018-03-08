@@ -100,6 +100,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [Familia](https://github.com/baidu/Familia) 百度出品的 A Toolkit for Industrial Topic Modeling
 
+- [Text Classification](https://github.com/brightmart/text_classification) All kinds of text classificaiton models and more with deep learning. 用知乎问答语聊作为测试数据。
+
   
 ### QA & Chatbot 问答和聊天机器人 
 
@@ -181,6 +183,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [漢語拆字字典](https://github.com/kfcd/chaizi)
 
 - [SentiBridge: 中文实体情感知识库](https://github.com/rainarch/SentiBridge) 刻画人们如何描述某个实体，包含新闻、旅游、餐饮，共计30万对。
+
+- [OpenCorpus](https://github.com/hankcs/OpenCorpus) A collection of freely available (Chinese) corpora. 
   
 <br />
 <br />
