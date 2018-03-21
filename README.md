@@ -148,8 +148,6 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [98年人民日报词性标注库@百度盘](https://pan.baidu.com/s/1gd6mslt)
 
-- [百度百科100gb语料@百度盘](http://pan.baidu.com/s/1i3wvfil) 密码neqs 出处应该是梁斌penny大神
-
 - [搜狗20061127新闻语料(包含分类)@百度盘](https://pan.baidu.com/s/1bnhXX6Z)
 
 - [UDChinese](https://github.com/UniversalDependencies/UD_Chinese) (for training spaCy POS)
