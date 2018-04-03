@@ -105,7 +105,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
   
 ### QA & Chatbot 问答和聊天机器人 
 
-- [Rasa NLU](https://github.com/RasaHQ/rasa_nlu) (Python) turn natural language into structured data 
+- [Rasa NLU](https://github.com/RasaHQ/rasa_nlu) (Python) turn natural language into structured data, a Chinese fork at [Rasa NLU Chi](https://github.com/crownpku/Rasa_NLU_Chi)
 
 - [Rasa Core](https://github.com/RasaHQ/rasa_core) (Python) machine learning based dialogue engine for conversational software
 
