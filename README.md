@@ -60,9 +60,12 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [spaCy](https://spacy.io/) (Python) Industrial-Strength Natural Language Processing
 
+- [textacy](https://github.com/chartbeat-labs/textacy) (Python) NLP, before and after spaCy
+
 - [OpenNLP](https://opennlp.apache.org/) (Java) A machine learning based toolkit for the processing of natural language text.
 
 - [gensim](https://github.com/RaRe-Technologies/gensim) (Python) Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. 
+
 
   
 ### Chinese Word Segment 中文分词
