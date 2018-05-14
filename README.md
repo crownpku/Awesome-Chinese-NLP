@@ -143,6 +143,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [开放知识图谱OpenKG.cn](http://openkg.cn)
 
+- [开放中文知识图谱的schema](https://github.com/cnschema/cnschema)
+
 - [大规模中文概念图谱CN-Probase](http://kw.fudan.edu.cn/cnprobase/search/) [公众号介绍](https://mp.weixin.qq.com/s?__biz=MzI0MTI1Nzk1MA==&mid=2651675884&idx=1&sn=1a43a93fd5bb53c8a9e48518bfa41db8&chksm=f2f7a05dc580294b227332b1051bfa2e5c756c72efb4d102c83613185b571ac31343720a6eae&mpshare=1&scene=1&srcid=1113llNDS1MvoadhCki83ERW#rd)
 
 - [农业知识图谱](https://github.com/qq547276542/Agriculture_KnowledgeGraph) 农业领域的信息检索，命名实体识别，关系抽取，分类树构建，数据挖掘
@@ -158,6 +160,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [UDChinese](https://github.com/UniversalDependencies/UD_Chinese) (for training spaCy POS)
 
 - [中文word2vec模型](https://github.com/to-shimo/chinese-word2vec)
+
+- [上百种预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 
 - [Synonyms:中文近义词工具包](https://github.com/huyingxi/Synonyms/) 基于维基百科中文和word2vec训练的近义词库，封装为python包文件。
 
