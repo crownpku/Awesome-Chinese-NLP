@@ -46,6 +46,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [YaYaNLP](https://github.com/Tony-Wang/YaYaNLP) (Python) 纯python编写的中文自然语言处理包，取名于“牙牙学语”
 
+- [小明NLP](https://github.com/SeanLee97/xmnlp) (Python) 轻量级中文自然语言处理工具
+
 - [DeepNLP](https://github.com/rockingdingo/deepnlp) (Python) Deep Learning NLP Pipeline implemented on Tensorflow with pretrained Chinese models.
 
 - [chinese_nlp](https://github.com/taozhijiang/chinese_nlp) (C++ & Python) Chinese Natural Language Processing tools and examples
