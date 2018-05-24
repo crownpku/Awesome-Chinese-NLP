@@ -40,7 +40,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [BosonNLP](http://bosonnlp.com/) by Boson (商业API服务)
 
-- [HanNLP](https://github.com/hankcs/HanLP) (Java)
+- [HanLP](https://github.com/hankcs/HanLP) (Java)
 
 - [SnowNLP](https://github.com/isnowfy/snownlp) (Python) Python library for processing Chinese text
 
