@@ -206,11 +206,23 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 <br />
 <br />
 
-## Organizations 相关中文NLP组织和会议
+## Organizations 相关中文NLP组织，会议与竞赛
 
 - [中国中文信息学会](http://www.cipsc.org.cn/)
 
 - [NLP Conference Calender](http://cs.rochester.edu/~omidb/nlpcalendar/) Main conferences, journals, workshops and shared tasks in NLP community.
+
+- [2017 第一届“讯飞杯”中文机器阅读理解评测](http://www.cips-cl.org/static/CCL2017/iflytek.html)
+
+- [2017 AI-Challenger 图像中文描述](https://www.challenger.ai/competition/caption) 用一句话描述给定图像中的主要信息，挑战中文语境下的图像理解问题。
+
+- [2017 AI-Challenger 英中机器文本翻译](https://www.challenger.ai/competition/translation) 用大规模的数据，提升英中文本机器翻译模型的能力。
+
+- [2017 知乎看山杯机器学习挑战赛](https://biendata.com/competition/zhihu/) 根据知乎给出的问题及话题标签的绑定关系的训练数据，训练出对未标注数据自动标注的模型。
+
+- [2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/) 对于给定的一句中文问题，问答系统从给定知识库中选择若干实体或属性值作为该问题的答案。
+
+- [2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/) 针对中文的真实客服语料，进行问句意图匹配;给定两个语句，判定两者意图是否相近。
   
 <br />
 <br />
