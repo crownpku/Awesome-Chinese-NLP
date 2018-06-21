@@ -222,7 +222,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [2018 开放领域的中文问答任务](https://biendata.com/competition/CCKS2018_4/) 对于给定的一句中文问题，问答系统从给定知识库中选择若干实体或属性值作为该问题的答案。
 
-- [2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/) 针对中文的真实客服语料，进行问句意图匹配;给定两个语句，判定两者意图是否相近。
+- [2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/) 针对中文的真实客服语料，进行问句意图匹配；给定两个语句，判定两者意图是否相近。
   
 <br />
 <br />
