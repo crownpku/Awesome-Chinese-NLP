@@ -20,7 +20,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 * #### [Information Extraction 信息提取](https://github.com/crownpku/awesome-chinese-nlp#information-extraction-信息提取-1)
 * #### [QA & Chatbot 问答和聊天机器人](https://github.com/crownpku/awesome-chinese-nlp#qa--chatbot-问答和聊天机器人-1)
 ### 2. [Corpus 中文语料](https://github.com/crownpku/awesome-chinese-nlp#corpus-中文语料)
-### 3. [Organizations 相关中文NLP组织和会议](https://github.com/crownpku/awesome-chinese-nlp#organizations-相关中文nlp组织和会议)
+### 3. [Organizations 相关中文NLP组织，会议与竞赛](https://github.com/crownpku/awesome-chinese-nlp#organizations-相关中文NLP组织，会议与竞赛)
 ### 4. [Learning Materials 学习资料](https://github.com/crownpku/awesome-chinese-nlp#learning-materials-学习资料)
   
 <br />
