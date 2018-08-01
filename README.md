@@ -38,6 +38,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [FudanNLP](https://github.com/FudanNLP/fnlp) by 复旦 (Java)
 
+- [BaiduLac](https://github.com/baidu/lac) by 百度 Baidu's open-source lexical analysis tool for Chinese, including word segmentation, part-of-speech tagging & named entity recognition. 
+
 - [BosonNLP](http://bosonnlp.com/) by Boson (商业API服务)
 
 - [HanLP](https://github.com/hankcs/HanLP) (Java)
