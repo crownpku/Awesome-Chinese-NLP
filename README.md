@@ -34,7 +34,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [NLPIR](https://github.com/NLPIR-team/NLPIR) by 中科院 (Java)
 
-- [LTP 语言技术平台](https://github.com/HIT-SCIR/ltp) by 哈工大 (C++)
+- [LTP 语言技术平台](https://github.com/HIT-SCIR/ltp) by 哈工大 (C++)  [pylyp](https://github.com/HIT-SCIR/pyltp) LTP的python封装
 
 - [FudanNLP](https://github.com/FudanNLP/fnlp) by 复旦 (Java)
 
