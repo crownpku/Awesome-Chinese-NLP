@@ -20,8 +20,9 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 * #### [Information Extraction 信息提取](https://github.com/crownpku/awesome-chinese-nlp#information-extraction-信息提取-1)
 * #### [QA & Chatbot 问答和聊天机器人](https://github.com/crownpku/awesome-chinese-nlp#qa--chatbot-问答和聊天机器人-1)
 ### 2. [Corpus 中文语料](https://github.com/crownpku/awesome-chinese-nlp#corpus-中文语料)
-### 3. [Organizations 相关中文NLP组织，会议与竞赛](https://github.com/crownpku/awesome-chinese-nlp#organizations-%E7%9B%B8%E5%85%B3%E4%B8%AD%E6%96%87nlp%E7%BB%84%E7%BB%87%E4%BC%9A%E8%AE%AE%E4%B8%8E%E7%AB%9E%E8%B5%9B)
-### 4. [Learning Materials 学习资料](https://github.com/crownpku/awesome-chinese-nlp#learning-materials-学习资料)
+### 3. [Organizations 中文NLP组织，会议与竞赛](https://github.com/crownpku/awesome-chinese-nlp#organizations-%E7%9B%B8%E5%85%B3%E4%B8%AD%E6%96%87nlp%E7%BB%84%E7%BB%87%E4%BC%9A%E8%AE%AE%E4%B8%8E%E7%AB%9E%E8%B5%9B)
+### 4. [Industry 中文NLP商业服务]()
+### 5. [Learning Materials 学习资料](https://github.com/crownpku/awesome-chinese-nlp#learning-materials-学习资料)
   
 <br />
 <br />
@@ -40,8 +41,6 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [BaiduLac](https://github.com/baidu/lac) by 百度 Baidu's open-source lexical analysis tool for Chinese, including word segmentation, part-of-speech tagging & named entity recognition. 
 
-- [BosonNLP](http://bosonnlp.com/) by Boson (商业API服务)
-
 - [HanLP](https://github.com/hankcs/HanLP) (Java)
 
 - [SnowNLP](https://github.com/isnowfy/snownlp) (Python) Python library for processing Chinese text
@@ -55,6 +54,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [chinese_nlp](https://github.com/taozhijiang/chinese_nlp) (C++ & Python) Chinese Natural Language Processing tools and examples
 
 - [Chinese-Annotator](https://github.com/crownpku/Chinese-Annotator) (Python) Annotator for Chinese Text Corpus 中文文本标注工具
+
 - [Poplar](https://github.com/synyi/poplar) (Typescript) A web-based annotation tool for natural language processing (NLP)
 
 ### Popular NLP Toolkits for English/Multi-Language 常用的英文或支持多语言的NLP工具包
@@ -209,7 +209,23 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 <br />
 <br />
 
-## Organizations 相关中文NLP组织，会议与竞赛
+## Organizations 中文NLP学术组织及竞赛
+
+- [清华大学自然语言处理与人文计算实验室](http://nlp.csai.tsinghua.edu.cn/site2/index.php/zh)
+
+- [北京大学计算语言学教育部重点实验室](http://klcl.pku.edu.cn/)
+
+- [中科院计算所自然语言处理研究组](http://www.nlpir.org/)
+
+- [哈工大智能技术与自然语言处理实验室](http://insun.hit.edu.cn/)
+
+- [复旦大学自然语言处理组](http://nlp.fudan.edu.cn/)
+
+- [苏州大学自然语言处理组](http://nlp.suda.edu.cn/index.html)
+
+- [微软亚洲研究院自然语言处理](https://www.msra.cn/zh-cn/research/nlp)
+
+- [华为诺亚方舟实验室](http://www.noahlab.com.hk/)
 
 - [中国中文信息学会](http://www.cipsc.org.cn/)
 
@@ -227,6 +243,29 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [2018 微众银行智能客服问句匹配大赛](https://biendata.com/competition/CCKS2018_3/) 针对中文的真实客服语料，进行问句意图匹配；给定两个语句，判定两者意图是否相近。
   
+<br />
+<br />
+
+## Industry 中文NLP商业服务
+
+- [百度云NLP](https://cloud.baidu.com/product/nlp.html) 提供业界领先的自然语言处理技术，提供优质文本处理及理解技术
+
+- [阿里云NLP](https://data.aliyun.com/product/nlp) 为各类企业及开发者提供的用于文本分析及挖掘的核心工具
+
+- [腾讯云NLP](https://cloud.tencent.com/product/nlp) 基于并行计算、分布式爬虫系统，结合独特的语义分析技术，一站满足NLP、转码、抽取、数据抓取等需求
+
+- [讯飞开放平台](https://www.xfyun.cn/) 以语音交互为核心的人工智能开放平台
+
+- [搜狗实验室](http://www.sogou.com/labs/webservice/) 分词和词性标注
+
+- [玻森数据](http://bosonnlp.com/) 上海玻森数据科技有限公司，专注中文语义分析技术
+
+- [云孚科技](https://www.yunfutech.com/) NLP工具包、知识图谱、文本挖掘、对话系统、舆情分析等
+
+- [智言科技](http://www.webot.ai) 专注于深度学习和知识图谱技术突破的人工智能公司
+
+- [追一科技](https://zhuiyi.ai/) 主攻深度学习和自然语言处理
+
 <br />
 <br />
 
