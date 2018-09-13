@@ -223,9 +223,25 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [苏州大学自然语言处理组](http://nlp.suda.edu.cn/index.html)
 
+- [南京大学自然语言处理研究组](http://nlp.nju.edu.cn)
+
+- [东北大学自然语言处理实验室](http://www.nlplab.com/)
+
+- [厦门大学智能科学与技术系自然语言处理实验室](http://nlp.xmu.edu.cn/)
+
+- [郑州大学自然语言处理实验室](http://nlp.zzu.edu.cn/)
+
 - [微软亚洲研究院自然语言处理](https://www.msra.cn/zh-cn/research/nlp)
 
 - [华为诺亚方舟实验室](http://www.noahlab.com.hk/)
+
+- [CUHK Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/)
+
+- [PolyU Social Media Mining Group](http://www4.comp.polyu.edu.hk/~cswjli/Group.html)
+
+- [HKUST Human Language Technology Center](http://www.cse.ust.hk/~hltc/)
+
+- [National Taiwan University NLP Lab](http://nlg.csie.ntu.edu.tw/)
 
 - [中国中文信息学会](http://www.cipsc.org.cn/)
 
