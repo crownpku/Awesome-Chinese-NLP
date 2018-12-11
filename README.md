@@ -141,6 +141,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [基于SmartQQ的自动机器人框架](https://github.com/Yinzo/SmartQQBot) (Python)
 
+- [QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG) (Python) 以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。
+
 <br />
 <br />
 
