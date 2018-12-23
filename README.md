@@ -207,7 +207,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [SentiBridge: 中文实体情感知识库](https://github.com/rainarch/SentiBridge) 刻画人们如何描述某个实体，包含新闻、旅游、餐饮，共计30万对。
 
 - [OpenCorpus](https://github.com/hankcs/OpenCorpus) A collection of freely available (Chinese) corpora. 
-  
+
+- [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) 情感/观点/评论 倾向性分析，中文命名实体识别，推荐系统
 <br />
 <br />
 
