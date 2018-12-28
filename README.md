@@ -170,6 +170,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [上百种预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 
+- [Tencent AI Lab Embedding Corpus for Chinese Words and Phrases](https://ai.tencent.com/ailab/nlp/embedding.html)
+
 - [Synonyms:中文近义词工具包](https://github.com/huyingxi/Synonyms/) 基于维基百科中文和word2vec训练的近义词库，封装为python包文件。
 
 - [Chinese_conversation_sentiment](https://github.com/z17176/Chinese_conversation_sentiment) A Chinese sentiment dataset may be useful for sentiment analysis.
