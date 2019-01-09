@@ -77,6 +77,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [Jieba 结巴中文分词](https://github.com/fxsjy/jieba) (Python及大量其它编程语言衍生) 做最好的 Python 中文分词组件
 
+- [北大中文分词工具](https://github.com/lancopku/pkuseg-python) (Python) 高准确度中文分词工具，简单易用，跟现有开源工具相比大幅提高了分词的准确率。
+
 - [kcws 深度学习中文分词](https://github.com/koth/kcws) (Python) BiLSTM+CRF与IDCNN+CRF
 
 - [ID-CNN-CWS](https://github.com/hankcs/ID-CNN-CWS) (Python) Iterated Dilated Convolutions for Chinese Word Segmentation
