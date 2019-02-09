@@ -91,6 +91,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [ChineseWordSegmentation](https://github.com/Moonshile/ChineseWordSegmentation) (Python) Chinese word segmentation algorithm without corpus（无需语料库的中文分词）
 
+- [Berserker](https://github.com/Hoiy/berserker) (Python) Chinese word segmentation based on BERT.
   
 ### Information Extraction 信息提取
 
