@@ -199,6 +199,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [中文语料小数据](https://github.com/crownpku/Small-Chinese-Corpus) 包含了中文命名实体识别、中文关系识别、中文阅读理解等一些小量数据
 
+- [大规模中文自然语言处理语料](https://github.com/brightmart/nlp_chinese_corpus) 维基百科(wiki2019zh),新闻语料(news2016zh),百科问答(baike2018qa)
+
 - [中文人名语料库](https://github.com/wainshine/Chinese-Names-Corpus) 中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。
 
 - [中文敏感词词库](https://github.com/observerss/textfilter) 敏感词过滤的几种实现+某1w词敏感词库
