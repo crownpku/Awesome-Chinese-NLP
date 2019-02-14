@@ -303,6 +303,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [Oxford CS DeepNLP 2017](https://github.com/oxford-cs-deepnlp-2017)
 
+- [Course materials for Georgia Tech CS 4650 and 7650, "Natural Language"] (https://github.com/jacobeisenstein/gt-nlp-class)
+
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James H. Martin
 
 - [52nlp 我爱自然语言处理](http://www.52nlp.cn/)
