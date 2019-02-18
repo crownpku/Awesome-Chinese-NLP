@@ -71,7 +71,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [gensim](https://github.com/RaRe-Technologies/gensim) (Python) Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. 
 
-  - [Kashgari](https://github.com/BrikerMan/Kashgari) - Simple and powerful NLP framework, build your state-of-art model in 5 minutes for named entity recognition (NER), part-of-speech tagging (PoS) and text classification tasks. Includes BERT and word2vec embedding.
+- [Kashgari](https://github.com/BrikerMan/Kashgari) - Simple and powerful NLP framework, build your state-of-art model in 5 minutes for named entity recognition (NER), part-of-speech tagging (PoS) and text classification tasks. Includes BERT and word2vec embedding.
 
   
 ### Chinese Word Segment 中文分词
