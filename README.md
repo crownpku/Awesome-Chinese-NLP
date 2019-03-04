@@ -92,6 +92,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [ChineseWordSegmentation](https://github.com/Moonshile/ChineseWordSegmentation) (Python) Chinese word segmentation algorithm without corpus（无需语料库的中文分词）
 
+- [Go语言高性能分词](https://github.com/go-ego/gse) (Go) Go efficient text segmentation; support english, chinese, japanese and other.
+
   
 ### Information Extraction 信息提取
 
