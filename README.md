@@ -191,6 +191,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [八卦版問答中文語料](https://github.com/zake7749/Gossiping-Chinese-Corpus)
 
+- [中文公开聊天语料库](https://github.com/codemayq/chaotbot_corpus_Chinese)
+
 - [中国股市公告信息爬取](https://github.com/startprogress/China_stock_announcement) 通过python脚本从巨潮网络的服务器获取中国股市（sz,sh）的公告(上市公司和监管机构)
 
 - [tushare财经数据接口](http://tushare.org/) TuShare是一个免费、开源的python财经数据接口包。
