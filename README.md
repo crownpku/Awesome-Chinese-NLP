@@ -109,6 +109,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [A neural network model for Chinese named entity recognition](https://github.com/zjy-ucas/ChineseNER)
 
+- [bert-chinese-ner](https://github.com/ProHiryu/bert-chinese-ner) 使用预训练语言模型BERT做中文NER
+
 - [Information-Extraction-Chinese](https://github.com/crownpku/Information-Extraction-Chinese) Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT 中文实体识别与关系提取
 
 - [Familia](https://github.com/baidu/Familia) 百度出品的 A Toolkit for Industrial Topic Modeling
@@ -322,4 +324,6 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [文本处理实践课资料](https://github.com/Roshanson/TextInfoExp) 文本处理实践课资料，包含文本特征提取（TF-IDF），文本分类，文本聚类，word2vec训练词向量及同义词词林中文词语相似度计算、文档自动摘要，信息抽取，情感分析与观点挖掘等实验。
 
 - [nlp_tasks](https://github.com/Kyubyong/nlp_tasks) Natural Language Processing Tasks and Selected References
+
+- [NLP研究入门之道](https://github.com/zibuyu/research_tao) from清华刘知远老师
 
