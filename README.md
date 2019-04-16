@@ -53,6 +53,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [chinese_nlp](https://github.com/taozhijiang/chinese_nlp) (C++ & Python) Chinese Natural Language Processing tools and examples
 
+- [lightNLP](https://github.com/smilelight/lightNLP) (Python) 基于Pytorch和torchtext的自然语言处理深度学习框架
+
 - [Chinese-Annotator](https://github.com/crownpku/Chinese-Annotator) (Python) Annotator for Chinese Text Corpus 中文文本标注工具
 
 - [Poplar](https://github.com/synyi/poplar) (Typescript) A web-based annotation tool for natural language processing (NLP)
