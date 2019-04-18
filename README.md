@@ -65,7 +65,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [NLTK](http://www.nltk.org/) (Python) Natural Language Toolkit
 
-- [spaCy](https://spacy.io/) (Python) Industrial-Strength Natural Language Processing
+- [spaCy](https://spacy.io/) (Python) Industrial-Strength Natural Language Processing with a [online course](https://course.spacy.io/)
 
 - [textacy](https://github.com/chartbeat-labs/textacy) (Python) NLP, before and after spaCy
 
