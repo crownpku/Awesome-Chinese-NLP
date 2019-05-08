@@ -96,6 +96,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [Go语言高性能分词](https://github.com/go-ego/gse) (Go) Go efficient text segmentation; support english, chinese, japanese and other.
 
+- [Ansj中文分词](https://github.com/NLPchina/ansj_seg) (java) 基于n-Gram+CRF+HMM的中文分词的java实现 
+
   
 ### Information Extraction 信息提取
 
