@@ -43,6 +43,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [HanLP](https://github.com/hankcs/HanLP) (Java)
 
+- [FastNLP](https://github.com/fastnlp/fastNLP) (Python) 一款轻量级的 NLP 处理套件。
+
 - [SnowNLP](https://github.com/isnowfy/snownlp) (Python) Python library for processing Chinese text
 
 - [YaYaNLP](https://github.com/Tony-Wang/YaYaNLP) (Python) 纯python编写的中文自然语言处理包，取名于“牙牙学语”
