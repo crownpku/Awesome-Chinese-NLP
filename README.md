@@ -337,3 +337,4 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [NLP研究入门之道](https://github.com/zibuyu/research_tao) from清华刘知远老师
 
+- [Chinese NLP](https://chinesenlp.xyz/#/) Shared tasks, datasets and state-of-the-art results for Chinese Natural Language Processing 
