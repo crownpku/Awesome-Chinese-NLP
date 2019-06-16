@@ -175,6 +175,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [中文 Wikipedia Dump](https://dumps.wikimedia.org/zhwiki/)
 
+- [基于不同语料、不同模型（比如BERT、GPT）的中文预训练模型](https://github.com/dbiir/UER-py) 中文预训练模型框架，支持不同语料、编码器、目标任务的预训练模型（from RUC and Tencent）
+
 - [98年人民日报词性标注库@百度盘](https://pan.baidu.com/s/1gd6mslt)
 
 - [搜狗20061127新闻语料(包含分类)@百度盘](https://pan.baidu.com/s/1bnhXX6Z)
