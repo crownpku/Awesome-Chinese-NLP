@@ -191,6 +191,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [Tencent AI Lab Embedding Corpus for Chinese Words and Phrases](https://ai.tencent.com/ailab/nlp/embedding.html)
 
+- [中文预训练BERT with Whole Word Masking](https://github.com/ymcui/Chinese-BERT-wwm)
+
 - [中华新华字典数据库](https://github.com/pwxcoo/chinese-xinhua) 包括歇后语，成语，词语，汉字。
 
 - [Synonyms:中文近义词工具包](https://github.com/huyingxi/Synonyms/) 基于维基百科中文和word2vec训练的近义词库，封装为python包文件。
