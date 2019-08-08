@@ -300,6 +300,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ## Industry 中文NLP商业服务
 
+- [华为云NLP](https://www.huaweicloud.com/product/nlp.html) 针对各类企业及开发者提供的用于文本分析及挖掘的云服务，旨在帮助用户高效的处理文本
+
 - [百度云NLP](https://cloud.baidu.com/product/nlp.html) 提供业界领先的自然语言处理技术，提供优质文本处理及理解技术
 
 - [阿里云NLP](https://data.aliyun.com/product/nlp) 为各类企业及开发者提供的用于文本分析及挖掘的核心工具
