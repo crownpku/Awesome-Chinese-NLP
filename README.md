@@ -130,6 +130,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [Rasa Core](https://github.com/RasaHQ/rasa_core) (Python) machine learning based dialogue engine for conversational software
 
+- [Chatstack](https://github.com/crownpku/Chatstack-Doc) A Full Pipeline UI for building Chinese NLU System
+
 - [Snips NLU](https://github.com/snipsco/snips-nlu) (Python) Snips NLU is a Python library that allows to parse sentences written in natural language and extracts structured information.
 
 - [DeepPavlov](https://github.com/deepmipt/DeepPavlov) (Python) An open source library for building end-to-end dialog systems and training chatbots.
