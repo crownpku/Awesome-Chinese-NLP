@@ -195,6 +195,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [中文预训练BERT with Whole Word Masking](https://github.com/ymcui/Chinese-BERT-wwm)
 
+- [中文GPT2训练代码](https://github.com/Morizeyao/GPT2-Chinese) 可以写诗，新闻，小说，或是训练通用语言模型。
+
 - [中华新华字典数据库](https://github.com/pwxcoo/chinese-xinhua) 包括歇后语，成语，词语，汉字。
 
 - [Synonyms:中文近义词工具包](https://github.com/huyingxi/Synonyms/) 基于维基百科中文和word2vec训练的近义词库，封装为python包文件。
