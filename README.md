@@ -217,7 +217,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [tushare财经数据接口](http://tushare.org/) TuShare是一个免费、开源的python财经数据接口包。
 
-- [金融文本数据集(https://github.com/smoothnlp/FinancialDatasets) SmoothNLP 金融文本数据集(公开) Public Financial Datasets for NLP Researches Only
+- [金融文本数据集](https://github.com/smoothnlp/FinancialDatasets) SmoothNLP 金融文本数据集(公开) Public Financial Datasets for NLP Researches
 
 - [保险行业语料库](https://github.com/Samurais/insuranceqa-corpus-zh)   [[52nlp介绍Blog](http://www.52nlp.cn/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%BF%9D%E9%99%A9%E8%A1%8C%E4%B8%9A%E9%97%AE%E7%AD%94%E5%BC%80%E6%94%BE%E6%95%B0%E6%8D%AE%E9%9B%86)] OpenData in insurance area for Machine Learning Tasks
 
