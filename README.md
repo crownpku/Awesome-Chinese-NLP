@@ -199,6 +199,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [中文GPT2训练代码](https://github.com/Morizeyao/GPT2-Chinese) 可以写诗，新闻，小说，或是训练通用语言模型。
 
+- [中文语言理解测评基准ChineseGLUE](https://github.com/chineseGLUE/chineseGLUE) 包括代表性的数据集、基准(预训练)模型、语料库、排行榜。
+
 - [中华新华字典数据库](https://github.com/pwxcoo/chinese-xinhua) 包括歇后语，成语，词语，汉字。
 
 - [Synonyms:中文近义词工具包](https://github.com/huyingxi/Synonyms/) 基于维基百科中文和word2vec训练的近义词库，封装为python包文件。
