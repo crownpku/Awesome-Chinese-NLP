@@ -162,6 +162,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG) (Python) 以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。
 
+- [GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) (Python) 用于中文闲聊的GPT2模型
+
 <br />
 <br />
 
