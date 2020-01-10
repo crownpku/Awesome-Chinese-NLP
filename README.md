@@ -269,6 +269,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [哈工大智能技术与自然语言处理实验室](http://insun.hit.edu.cn/)
 
+- [哈工大社会计算与信息检索研究中心](http://ir.hit.edu.cn/)
+
 - [复旦大学自然语言处理组](http://nlp.fudan.edu.cn/)
 
 - [苏州大学自然语言处理组](http://nlp.suda.edu.cn/index.html)
