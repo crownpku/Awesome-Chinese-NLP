@@ -125,6 +125,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [Text Classification](https://github.com/brightmart/text_classification) All kinds of text classificaiton models and more with deep learning. 用知乎问答语聊作为测试数据。
 
+- [ComplexEventExtraction](https://github.com/liuhuanyong/ComplexEventExtraction) 中文复合事件的概念与显式模式，包括条件事件、因果事件、顺承事件、反转事件等事件抽取，并形成事理图谱。
+
   
 ### QA & Chatbot 问答和聊天机器人 
 
