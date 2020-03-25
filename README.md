@@ -67,6 +67,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [CoreNLP](https://github.com/stanfordnlp/CoreNLP) by Stanford (Java) A Java suite of core NLP tools.
 
+- [Stanza](https://github.com/stanfordnlp/stanza) by Stanford (Python) A Python NLP Library for Many Human Languages
+
 - [NLTK](http://www.nltk.org/) (Python) Natural Language Toolkit
 
 - [spaCy](https://spacy.io/) (Python) Industrial-Strength Natural Language Processing with a [online course](https://course.spacy.io/)
