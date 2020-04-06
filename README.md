@@ -63,7 +63,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [Jiagu](https://github.com/ownthink/Jiagu) (Python) Jiagu以BiLSTM等模型为基础，使用大规模语料训练而成。将提供中文分词、词性标注、命名实体识别、情感分析、知识图谱关系抽取、关键词抽取、文本摘要、新词发现等常用自然语言处理功能。
 
-- [SmoothNLP](https://github.com/smoothnlp/SmoothNLP) (Python & Java)专注于可解释的NLP技术
+- [SmoothNLP](https://github.com/smoothnlp/SmoothNLP) (Python & Java) 专注于可解释的NLP技术
 
 ### Popular NLP Toolkits for English/Multi-Language 常用的英文或支持多语言的NLP工具包
 
