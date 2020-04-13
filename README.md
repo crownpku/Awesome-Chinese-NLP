@@ -131,6 +131,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [ComplexEventExtraction](https://github.com/liuhuanyong/ComplexEventExtraction) 中文复合事件的概念与显式模式，包括条件事件、因果事件、顺承事件、反转事件等事件抽取，并形成事理图谱。
 
+- [TextRank4ZH](https://github.com/letiantian/TextRank4ZH) 从中文文本中自动提取关键词和摘要
+
   
 ### QA & Chatbot 问答和聊天机器人 
 
