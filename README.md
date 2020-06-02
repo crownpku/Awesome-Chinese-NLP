@@ -65,6 +65,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [SmoothNLP](https://github.com/smoothnlp/SmoothNLP) (Python & Java) 专注于可解释的NLP技术
 
+- [FoolNLTK](https://github.com/rockyzhengwu/FoolNLTK) (Python & Java) A Chinese Nature Language Toolkit
+
 ### Popular NLP Toolkits for English/Multi-Language 常用的英文或支持多语言的NLP工具包
 
 - [CoreNLP](https://github.com/stanfordnlp/CoreNLP) by Stanford (Java) A Java suite of core NLP tools.
