@@ -185,6 +185,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [大规模中文概念图谱CN-Probase](http://kw.fudan.edu.cn/cnprobase/search/) [公众号介绍](https://mp.weixin.qq.com/s?__biz=MzI0MTI1Nzk1MA==&mid=2651675884&idx=1&sn=1a43a93fd5bb53c8a9e48518bfa41db8&chksm=f2f7a05dc580294b227332b1051bfa2e5c756c72efb4d102c83613185b571ac31343720a6eae&mpshare=1&scene=1&srcid=1113llNDS1MvoadhCki83ERW#rd)
 
+- [大规模1.4亿中文知识图谱开源下载](https://github.com/ownthink/KnowledgeGraphData)
+
 - [农业知识图谱](https://github.com/qq547276542/Agriculture_KnowledgeGraph) 农业领域的信息检索，命名实体识别，关系抽取，分类树构建，数据挖掘
 
 - [CLDC中文语言资源联盟](http://www.chineseldc.org/)
