@@ -174,6 +174,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) (Python) 用于中文闲聊的GPT2模型
 
+- [A Large-scale Chinese Short-Text Conversation Dataset and Chinese pre-training dialog models](https://github.com/thu-coai/CDial-GPT) (Python) 提供了一个大规模中文对话数据集，并提供了在此数据集上的中文对话预训练模型（中文GPT模型）
+
 <br />
 <br />
 
