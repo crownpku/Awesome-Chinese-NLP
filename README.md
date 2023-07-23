@@ -279,6 +279,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [FinancialDatasets](https://github.com/smoothnlp/FinancialDatasets) SmoothNLP 金融文本数据集(公开) Public Financial Datasets for NLP Researches Only
 
 - [People's Daily & Children's Fairy Tale](https://github.com/ymcui/Chinese-Cloze-RC) PD&CFT: A Chinese Reading Comprehension Dataset
+- [中文维基23万高质量词条-更新至23年7月-已过滤敏感或争议性信息](https://huggingface.co/datasets/pleisto/wikipedia-cn-20230720-filtered)
 <br />
 <br />
 
