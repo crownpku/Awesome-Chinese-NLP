@@ -68,6 +68,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [FoolNLTK](https://github.com/rockyzhengwu/FoolNLTK) (Python & Java) A Chinese Nature Language Toolkit
 
+- [zhtw](https://github.com/rajatim/zhtw) (Python) 簡體轉台灣繁體中文轉換工具，包含3,490個台灣用語詞彙 Taiwan Traditional Chinese converter with 3,490 curated terms
+
 ### Popular NLP Toolkits for English/Multi-Language 常用的英文或支持多语言的NLP工具包
 
 - [CoreNLP](https://github.com/stanfordnlp/CoreNLP) by Stanford (Java) A Java suite of core NLP tools.
