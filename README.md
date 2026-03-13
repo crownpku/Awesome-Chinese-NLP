@@ -167,6 +167,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [AnyQ by Baidu](https://github.com/baidu/AnyQ) 主要包含面向FAQ集合的问答系统框架、文本语义匹配工具SimNet。
 
+
+- [FoJin 佛津](https://github.com/xr843/fojin) (Python/TypeScript) 全球佛教古籍数字资源聚合平台，440+ 数据源，30 语种，基于 Elasticsearch + pgvector 的全文检索与向量搜索，RAG 智能问答覆盖 1100 万字经文语料。
 - [DuReader中文阅读理解Baseline代码](https://github.com/baidu/DuReader) (Python)
 
 - [基于SmartQQ的自动机器人框架](https://github.com/Yinzo/SmartQQBot) (Python)
