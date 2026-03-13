@@ -177,6 +177,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 - [CDial-GPT](https://github.com/thu-coai/CDial-GPT) (Python) 提供了一个大规模中文对话数据集，并提供了在此数据集上的中文对话预训练模型（中文GPT模型）
 
+- [FoJin 佛津](https://github.com/xr843/fojin) (Python) 全球佛教古籍数字资源聚合平台，440+ 数据源，30 语种，全文阅读、知识图谱、RAG 智能问答。基于 FastAPI + React + PostgreSQL(pgvector) + Elasticsearch 8。
+
 ### Multi-Modal Representation & Retrieval 多模态表征与检索
 
 - [Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) (Python) Chinese-CLIP是中文多模态图文表征预训练模型。其基于OpenAI的CLIP模型结构，利用大规模中文原生图文语料完成预训练，目前开源了多个模型规模，同时公开了技术报告论文及检索demo
