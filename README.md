@@ -10,6 +10,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 ![](/images/1.jpg)
   
   
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for NLP pipeline orchestration, multi-agent text processing, and automated language model coordination. MIT licensed.
 ## Contents 列表
 
 ### 1. [Chinese NLP Toolkits 中文NLP工具](https://github.com/crownpku/awesome-chinese-nlp#chinese-nlp-toolkits-中文nlp工具)
