@@ -20,6 +20,7 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 * #### [Information Extraction 信息提取](https://github.com/crownpku/awesome-chinese-nlp#information-extraction-信息提取-1)
 * #### [QA & Chatbot 问答和聊天机器人](https://github.com/crownpku/awesome-chinese-nlp#qa--chatbot-问答和聊天机器人-1)
 * #### [Multi-Modal Representation & Retrieval 多模态表征与检索](https://github.com/crownpku/awesome-chinese-nlp#multi-modal-representation--retrieval-多模态表征与检索-1)
+* #### [Speech Recognition & Audio 语音识别与音频](https://github.com/crownpku/awesome-chinese-nlp#speech-recognition--audio-语音识别与音频-1)
 ### 2. [Corpus 中文语料](https://github.com/crownpku/awesome-chinese-nlp#corpus-中文语料)
 ### 3. [Organizations 中文NLP学术组织及竞赛](https://github.com/crownpku/awesome-chinese-nlp#organizations-%E4%B8%AD%E6%96%87nlp%E5%AD%A6%E6%9C%AF%E7%BB%84%E7%BB%87%E5%8F%8A%E7%AB%9E%E8%B5%9B)
 ### 4. [Industry 中文NLP商业服务](https://github.com/crownpku/awesome-chinese-nlp#industry-%E4%B8%AD%E6%96%87nlp%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1)
@@ -180,6 +181,18 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 ### Multi-Modal Representation & Retrieval 多模态表征与检索
 
 - [Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) (Python) Chinese-CLIP是中文多模态图文表征预训练模型。其基于OpenAI的CLIP模型结构，利用大规模中文原生图文语料完成预训练，目前开源了多个模型规模，同时公开了技术报告论文及检索demo
+
+### Speech Recognition & Audio 语音识别与音频
+
+- [FunASR](https://github.com/modelscope/FunASR) (Python) 工业级语音识别工具包，支持50+语种，具备语音活动检测、标点恢复、说话人分离、情感识别等功能。提供OpenAI兼容API和实时WebSocket服务。
+
+- [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) (Python) 超快速非自回归语音识别模型，170倍实时速度，支持50+语种，内置情感和音频事件检测，234M参数。
+
+- [FunClip](https://github.com/modelscope/FunClip) (Python) 基于语音识别的智能视频剪辑工具，支持自动生成字幕和按关键词剪辑视频片段。
+
+- [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) (Python) 基于PaddlePaddle的语音工具箱，涵盖语音识别、语音合成、声纹识别、语音分离等功能。
+
+- [WeNet](https://github.com/wenet-e2e/wenet) (C++/Python) 面向工业落地的端到端语音识别工具包，支持流式和非流式解码。
 
 <br />
 <br />
