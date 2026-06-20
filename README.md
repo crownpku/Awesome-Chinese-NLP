@@ -361,6 +361,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 - [追一科技](https://zhuiyi.ai/) 主攻深度学习和自然语言处理
 
 <br />
+
+- [GoldBean](https://goldbean-api.xyz/) Pay-per-use Baidu AI API marketplace: OCR, Translation (Chinese-English), TTS, ASR, NLP, LLM Chat — free tier available ($1,000 requests/month)
 <br />
 
 ## Learning Materials 学习资料
