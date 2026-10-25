@@ -186,6 +186,8 @@ A curated list of resources for NLP (Natural Language Processing) for Chinese
 
 ## Corpus 中文语料
 
+- [乾隆御制诗全文数据库 QianLong-Poem](https://github.com/stellarissss/QianLong-Poem) 《御製詩集》454 卷、37,728 首乾隆御制诗的结构化语料库（繁体权威本 + 简体对照本，含系年 1736–1798、卷次、出处溯源与离线全文检索器），数据 CC BY 4.0
+
 - [开放知识图谱OpenKG.cn](http://openkg.cn)
 
 - [开放中文知识图谱的schema](https://github.com/cnschema/cnschema)
